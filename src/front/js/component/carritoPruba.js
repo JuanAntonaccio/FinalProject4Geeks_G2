@@ -13,6 +13,7 @@ const CarritoPrueba = () => {
 					<h1 className="fortnite text-light">
 						Mi carrito <i className="carro fas fa-shopping-cart" />
 					</h1>
+					{/* {store.carrito.length > 0 ? (null) : (null)} mensaje de carrito vacio aqui */}
 					<div className="container carritoadentro">
 						&nbsp;
 						<h4 className="letra">Productos</h4>
