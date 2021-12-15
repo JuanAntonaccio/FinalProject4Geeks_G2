@@ -10,7 +10,7 @@ const CarritoPrueba = () => {
 		<>
 			{store.auth ? (
 				<div className="container carrito">
-					<h1 className="fortnite">
+					<h1 className="fortnite text-light">
 						Mi carrito <i className="carro fas fa-shopping-cart" />
 					</h1>
 					<div className="container carritoadentro">
